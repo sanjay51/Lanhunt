@@ -1,4 +1,4 @@
-nhunt**
+**LanHunt**
 ===================
 ![http://www.codingg.com/lanhunt/](http://www.codingg.com/lanhunt/images/lanhunt2.png)
 
