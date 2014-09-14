@@ -1,0 +1,6 @@
+-> Logo
+-> add logo image on About page
+-> proxy range field maxlength=3
+-> proxy range maxvalue=254
+-> move update database "process" to sidebar
+-> Databse update in system tray

@@ -1,0 +1,189 @@
+1 smb://172.16.144.193/Users/
+1 smb://172.16.144.193/Users/Default/
+1 smb://172.16.144.193/Users/Default/AppData/
+1 smb://172.16.144.193/Users/Default/AppData/Local/
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/GameExplorer/
+
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/History/
+2 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/History/desktop.ini
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/History/History.IE5/
+2 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/History/History.IE5/desktop.ini
+2 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/History/History.IE5/index.dat
+
+
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/6IPF33T2/
+2 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/6IPF33T2/desktop.ini
+
+2 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/desktop.ini
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/GT1LAFC8/
+2 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/GT1LAFC8/desktop.ini
+
+2 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/index.dat
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/VV7B12OM/
+2 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/VV7B12OM/desktop.ini
+
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/XC0VAJJQ/
+2 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/XC0VAJJQ/desktop.ini
+
+
+2 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/desktop.ini
+
+
+
+1 smb://172.16.144.193/Users/Default/AppData/Local/Microsoft Help/
+
+1 smb://172.16.144.193/Users/Default/AppData/Local/Temp/
+
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Macromedia/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Macromedia/Flash Player/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Macromedia/Flash Player/www.macromedia.com/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Macromedia/Flash Player/www.macromedia.com/bin/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Macromedia/Flash Player/www.macromedia.com/bin/airappinstaller/
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Macromedia/Flash Player/www.macromedia.com/bin/airappinstaller/airappinstaller.exe
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Macromedia/Flash Player/www.macromedia.com/bin/airappinstaller/digest.s
+
+
+
+
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Media Center Programs/
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/desktop.ini
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Shows Desktop.lnk
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/VMware Workstation.lnk
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Window Switcher.lnk
+
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Cookies/
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Cookies/index.dat
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Recent/
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Compressed (zipped) Folder.ZFSendToTarget
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Desktop (create shortcut).DeskLink
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Desktop.ini
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Fax Recipient.lnk
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Mail Recipient.MAPIMail
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Desktop.ini
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Ease of Access.lnk
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Magnify.lnk
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Narrator.lnk
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/On-Screen Keyboard.lnk
+
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Command Prompt.lnk
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Desktop.ini
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Notepad.lnk
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Run.lnk
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/computer.lnk
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Control Panel.lnk
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Desktop.ini
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Private Character Editor.lnk
+
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Windows Explorer.lnk
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/Desktop.ini
+2 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/Help.lnk
+
+
+
+1 smb://172.16.144.193/Users/Default/AppData/Roaming/Microsoft/Windows/Templates/
+
+
+
+
+
+1 smb://172.16.144.193/Users/Default/Desktop/
+
+1 smb://172.16.144.193/Users/Default/Documents/
+
+1 smb://172.16.144.193/Users/Default/Downloads/
+
+1 smb://172.16.144.193/Users/Default/Favorites/
+
+1 smb://172.16.144.193/Users/Default/Links/
+
+1 smb://172.16.144.193/Users/Default/Music/
+
+2 smb://172.16.144.193/Users/Default/NTUSER.DAT
+2 smb://172.16.144.193/Users/Default/NTUSER.DAT.LOG
+2 smb://172.16.144.193/Users/Default/NTUSER.DAT.LOG1
+2 smb://172.16.144.193/Users/Default/NTUSER.DAT.LOG2
+2 smb://172.16.144.193/Users/Default/NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TM.blf
+2 smb://172.16.144.193/Users/Default/NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000001.regtrans-ms
+2 smb://172.16.144.193/Users/Default/NTUSER.DAT{6cced2f1-6e01-11de-8bed-001e0bcd1824}.TMContainer00000000000000000002.regtrans-ms
+1 smb://172.16.144.193/Users/Default/Pictures/
+
+1 smb://172.16.144.193/Users/Default/Saved Games/
+
+1 smb://172.16.144.193/Users/Default/Videos/
+
+
+2 smb://172.16.144.193/Users/desktop.ini
+1 smb://172.16.144.193/Users/Public/
+2 smb://172.16.144.193/Users/Public/desktop.ini
+1 smb://172.16.144.193/Users/Public/Documents/
+2 smb://172.16.144.193/Users/Public/Documents/desktop.ini
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Custom/
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Custom/CrazyTalk 4 Custom/
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Custom/CrazyTalk 4 Custom/ComicEffect/
+
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Custom/CrazyTalk 4 Custom/Custom Expression/
+
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Custom/CrazyTalk 4 Custom/Custom Model/
+
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Custom/CrazyTalk 4 Custom/Custom VoiceFilter/
+
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Custom/CrazyTalk 4 Custom/Model/
+
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Custom/CrazyTalk 4 Custom/VoiceFilter/
+
+
+
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Shared Custom/
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Shared Custom/CrazyTalk 4 Custom/
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Shared Custom/CrazyTalk 4 Custom/Expression/
+
+1 smb://172.16.144.193/Users/Public/Documents/Reallusion/Shared Custom/CrazyTalk 4 Custom/Script/
+
+
+
+
+
+1 smb://172.16.144.193/Users/Public/Libraries/
+2 smb://172.16.144.193/Users/Public/Libraries/desktop.ini
+2 smb://172.16.144.193/Users/Public/Libraries/RecordedTV.library-ms
+
+1 smb://172.16.144.193/Users/Public/Music/
+2 smb://172.16.144.193/Users/Public/Music/desktop.ini
+
+1 smb://172.16.144.193/Users/Public/Pictures/
+2 smb://172.16.144.193/Users/Public/Pictures/desktop.ini
+
+1 smb://172.16.144.193/Users/Public/Videos/
+2 smb://172.16.144.193/Users/Public/Videos/desktop.ini
+
+
+

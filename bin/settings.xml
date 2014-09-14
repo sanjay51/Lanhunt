@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <proxy>
+    <low>172.16.144.0</low>
+    <high>172.16.160.254</high>
+  </proxy>
+  <firstrun>
+    <value>0</value>
+  </firstrun>
+</settings>

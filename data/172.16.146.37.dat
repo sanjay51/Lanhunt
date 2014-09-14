@@ -1,0 +1,237 @@
+1 smb://172.16.146.37/Users/
+1 smb://172.16.146.37/Users/Default/
+1 smb://172.16.146.37/Users/Default/AppData/
+1 smb://172.16.146.37/Users/Default/AppData/Local/
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/GameExplorer/
+
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/History/
+
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/
+
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group1/
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group1/1 - Desktop.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group1/desktop.ini
+
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group2/
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group2/1 - Run.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group2/2 - Search.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group2/3 - Windows Explorer.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group2/4 - Control Panel.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group2/5 - Task Manager.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group2/desktop.ini
+
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/01 - Command Prompt.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/02 - Command Prompt.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/03 - Computer Management.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/04 - Disk Management.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/05 - Device Manager.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/06 - System.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/07 - Event Viewer.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/08 - Power Options.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/09 - Mobility Center.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/10 - Programs and Features.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows/WinX/Group3/desktop.ini
+
+
+
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows Sidebar/
+1 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows Sidebar/Gadgets/
+
+2 smb://172.16.146.37/Users/Default/AppData/Local/Microsoft/Windows Sidebar/settings.ini
+
+
+1 smb://172.16.146.37/Users/Default/AppData/Local/Temp/
+
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Macromedia/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Macromedia/Flash Player/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Macromedia/Flash Player/www.macromedia.com/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Macromedia/Flash Player/www.macromedia.com/bin/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Macromedia/Flash Player/www.macromedia.com/bin/airappinstaller/
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Macromedia/Flash Player/www.macromedia.com/bin/airappinstaller/airappinstaller.exe
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Macromedia/Flash Player/www.macromedia.com/bin/airappinstaller/digest.s
+
+
+
+
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/desktop.ini
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Shows Desktop.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Window Switcher.lnk
+
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Cookies/
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Recent/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Recent/AutomaticDestinations/
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Recent/CustomDestinations/
+
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Compressed (zipped) Folder.ZFSendToTarget
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Desktop (create shortcut).DeskLink
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Desktop.ini
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Fax Recipient.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Mail Recipient.MAPIMail
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessibility/
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessibility/Desktop.ini
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessibility/Magnify.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessibility/Narrator.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessibility/On-Screen Keyboard.lnk
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/
+
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Desktop.ini
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Notepad.lnk
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/
+
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/Desktop.ini
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/Command Prompt.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/computer.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/Control Panel.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/Desktop.ini
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/File Explorer.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/Help.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/Run.lnk
+2 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/System Tools/Windows.Defender.lnk
+
+
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/Microsoft/Windows/Templates/
+
+
+
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/TuneUp Software/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/TuneUp Software/TU2012/
+1 smb://172.16.146.37/Users/Default/AppData/Roaming/TuneUp Software/TU2012/Backups/
+
+
+
+
+
+1 smb://172.16.146.37/Users/Default/Desktop/
+
+1 smb://172.16.146.37/Users/Default/Documents/
+
+1 smb://172.16.146.37/Users/Default/Downloads/
+
+1 smb://172.16.146.37/Users/Default/Favorites/
+
+1 smb://172.16.146.37/Users/Default/Links/
+
+1 smb://172.16.146.37/Users/Default/Music/
+
+2 smb://172.16.146.37/Users/Default/NTUSER.DAT
+2 smb://172.16.146.37/Users/Default/NTUSER.DAT.LOG1
+2 smb://172.16.146.37/Users/Default/NTUSER.DAT.LOG2
+2 smb://172.16.146.37/Users/Default/NTUSER.DAT{97e1de87-d6fa-11e1-be62-94c0340a1222}.TM.blf
+2 smb://172.16.146.37/Users/Default/NTUSER.DAT{97e1de87-d6fa-11e1-be62-94c0340a1222}.TMContainer00000000000000000001.regtrans-ms
+2 smb://172.16.146.37/Users/Default/NTUSER.DAT{97e1de87-d6fa-11e1-be62-94c0340a1222}.TMContainer00000000000000000002.regtrans-ms
+1 smb://172.16.146.37/Users/Default/Pictures/
+
+1 smb://172.16.146.37/Users/Default/Saved Games/
+
+1 smb://172.16.146.37/Users/Default/Videos/
+
+
+1 smb://172.16.146.37/Users/Default.migrated/
+1 smb://172.16.146.37/Users/Default.migrated/Documents/
+
+
+2 smb://172.16.146.37/Users/desktop.ini
+
+1 smb://172.16.146.37/print$/
+1 smb://172.16.146.37/print$/IA64/
+
+1 smb://172.16.146.37/print$/W32X86/
+1 smb://172.16.146.37/print$/W32X86/3/
+2 smb://172.16.146.37/print$/W32X86/3/mxdwdrv.dll
+2 smb://172.16.146.37/print$/W32X86/3/PrintConfig.dll
+2 smb://172.16.146.37/print$/W32X86/3/unishare-pipelineconfig.xml
+2 smb://172.16.146.37/print$/W32X86/3/unishare.gpd
+2 smb://172.16.146.37/print$/W32X86/3/XPSSVCS.DLL
+
+1 smb://172.16.146.37/print$/W32X86/PCC/
+2 smb://172.16.146.37/print$/W32X86/PCC/ntprint.inf_x86_33076fad6e030706.cab
+2 smb://172.16.146.37/print$/W32X86/PCC/prnms003.inf_x86_e5000b832c1d000d.cab
+
+
+1 smb://172.16.146.37/print$/x64/
+1 smb://172.16.146.37/print$/x64/3/
+2 smb://172.16.146.37/print$/x64/3/FXSDRV.DLL
+2 smb://172.16.146.37/print$/x64/3/FXSRES.DLL
+2 smb://172.16.146.37/print$/x64/3/FXSTIFF.DLL
+2 smb://172.16.146.37/print$/x64/3/FXSUI.DLL
+2 smb://172.16.146.37/print$/x64/3/FXSWZRD.DLL
+2 smb://172.16.146.37/print$/x64/3/JNWDRV.dll
+2 smb://172.16.146.37/print$/x64/3/jnwdui.dll
+2 smb://172.16.146.37/print$/x64/3/LOCALE.GPD
+2 smb://172.16.146.37/print$/x64/3/MSXPSINC.GPD
+2 smb://172.16.146.37/print$/x64/3/MSXPSINC.PPD
+1 smb://172.16.146.37/print$/x64/3/mui/
+1 smb://172.16.146.37/print$/x64/3/mui/0409/
+2 smb://172.16.146.37/print$/x64/3/mui/0409/PSCRIPT.HLP
+2 smb://172.16.146.37/print$/x64/3/mui/0409/TTYUI.HLP
+2 smb://172.16.146.37/print$/x64/3/mui/0409/UNIDRV.HLP
+
+
+2 smb://172.16.146.37/print$/x64/3/MXDWDRV.DLL
+2 smb://172.16.146.37/print$/x64/3/mxdwdui.BUD
+2 smb://172.16.146.37/print$/x64/3/mxdwdui.dll
+2 smb://172.16.146.37/print$/x64/3/mxdwdui.gpd
+2 smb://172.16.146.37/print$/x64/3/mxdwdui.ini
+2 smb://172.16.146.37/print$/x64/3/P6DISP.GPD
+2 smb://172.16.146.37/print$/x64/3/P6FONT.GPD
+2 smb://172.16.146.37/print$/x64/3/PCL4RES.DLL
+2 smb://172.16.146.37/print$/x64/3/PCL5ERES.DLL
+2 smb://172.16.146.37/print$/x64/3/PCL5URES.DLL
+2 smb://172.16.146.37/print$/x64/3/PCLXL.DLL
+2 smb://172.16.146.37/print$/x64/3/PCLXL.GPD
+2 smb://172.16.146.37/print$/x64/3/PJL.GPD
+2 smb://172.16.146.37/print$/x64/3/PJLMON.DLL
+2 smb://172.16.146.37/print$/x64/3/PrintConfig.dll
+2 smb://172.16.146.37/print$/x64/3/PS5UI.DLL
+2 smb://172.16.146.37/print$/x64/3/PSCRIPT.HLP
+2 smb://172.16.146.37/print$/x64/3/PSCRIPT.NTF
+2 smb://172.16.146.37/print$/x64/3/PSCRIPT5.DLL
+2 smb://172.16.146.37/print$/x64/3/PSCRPTFE.NTF
+2 smb://172.16.146.37/print$/x64/3/PS_SCHM.GDL
+2 smb://172.16.146.37/print$/x64/3/STDDTYPE.GDL
+2 smb://172.16.146.37/print$/x64/3/STDNAMES.GPD
+2 smb://172.16.146.37/print$/x64/3/STDSCHEM.GDL
+2 smb://172.16.146.37/print$/x64/3/STDSCHMX.GDL
+2 smb://172.16.146.37/print$/x64/3/TTFSUB.GPD
+2 smb://172.16.146.37/print$/x64/3/UNIDRV.DLL
+2 smb://172.16.146.37/print$/x64/3/UNIDRV.HLP
+2 smb://172.16.146.37/print$/x64/3/UNIDRVUI.DLL
+2 smb://172.16.146.37/print$/x64/3/UNIRES.DLL
+2 smb://172.16.146.37/print$/x64/3/unishare-pipelineconfig.xml
+2 smb://172.16.146.37/print$/x64/3/unishare.gpd
+2 smb://172.16.146.37/print$/x64/3/XPSSVCS.DLL
+
+2 smb://172.16.146.37/print$/x64/msonpdrv.dll
+2 smb://172.16.146.37/print$/x64/msonpui.dll
+
+

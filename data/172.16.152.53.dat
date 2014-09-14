@@ -1,0 +1,547 @@
+1 smb://172.16.152.53/netcut/
+2 smb://172.16.152.53/netcut/netcutdefender.exe
+
+1 smb://172.16.152.53/Users/
+1 smb://172.16.152.53/Users/Default/
+1 smb://172.16.152.53/Users/Default/AppData/
+1 smb://172.16.152.53/Users/Default/AppData/Local/
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/GameExplorer/
+
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/History/
+2 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/History/desktop.ini
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/History/History.IE5/
+2 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/History/History.IE5/desktop.ini
+2 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/History/History.IE5/index.dat
+
+
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/AE0N23MV/
+2 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/AE0N23MV/desktop.ini
+
+2 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/desktop.ini
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/F3OKBN3A/
+2 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/F3OKBN3A/desktop.ini
+
+2 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/index.dat
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/S464L9UH/
+2 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/S464L9UH/desktop.ini
+
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/WWCYH1HP/
+2 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/WWCYH1HP/desktop.ini
+
+
+2 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/desktop.ini
+
+
+
+1 smb://172.16.152.53/Users/Default/AppData/Local/Microsoft Help/
+
+1 smb://172.16.152.53/Users/Default/AppData/Local/Temp/
+
+
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/desktop.ini
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Shows Desktop.lnk
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Window Switcher.lnk
+
+
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Cookies/
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Cookies/index.dat
+
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Recent/
+
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Compressed (zipped) Folder.ZFSendToTarget
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Desktop (create shortcut).DeskLink
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Desktop.ini
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Fax Recipient.lnk
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Mail Recipient.MAPIMail
+
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Desktop.ini
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Ease of Access.lnk
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Magnify.lnk
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Narrator.lnk
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/On-Screen Keyboard.lnk
+
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Command Prompt.lnk
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Desktop.ini
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Notepad.lnk
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Run.lnk
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/computer.lnk
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Control Panel.lnk
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Desktop.ini
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Private Character Editor.lnk
+
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Windows Explorer.lnk
+
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/Desktop.ini
+2 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/Help.lnk
+
+
+
+1 smb://172.16.152.53/Users/Default/AppData/Roaming/Microsoft/Windows/Templates/
+
+
+
+
+
+1 smb://172.16.152.53/Users/Default/Desktop/
+
+1 smb://172.16.152.53/Users/Default/Documents/
+
+1 smb://172.16.152.53/Users/Default/Downloads/
+
+1 smb://172.16.152.53/Users/Default/Favorites/
+2 smb://172.16.152.53/Users/Default/Favorites/Order prints of your photos online and get the first 30 free!.url
+1 smb://172.16.152.53/Users/Default/Favorites/Sony/
+2 smb://172.16.152.53/Users/Default/Favorites/Sony/Sony Asia Pacific.url
+2 smb://172.16.152.53/Users/Default/Favorites/Sony/VAIO Online Support.url
+2 smb://172.16.152.53/Users/Default/Favorites/Sony/VAIO Online.url
+
+2 smb://172.16.152.53/Users/Default/Favorites/Zinio - Digital Magazines.url
+
+1 smb://172.16.152.53/Users/Default/Links/
+
+1 smb://172.16.152.53/Users/Default/Music/
+
+2 smb://172.16.152.53/Users/Default/NTUSER.DAT
+2 smb://172.16.152.53/Users/Default/NTUSER.DAT.LOG
+2 smb://172.16.152.53/Users/Default/NTUSER.DAT.LOG1
+2 smb://172.16.152.53/Users/Default/NTUSER.DAT.LOG2
+2 smb://172.16.152.53/Users/Default/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+2 smb://172.16.152.53/Users/Default/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+2 smb://172.16.152.53/Users/Default/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+1 smb://172.16.152.53/Users/Default/Pictures/
+
+1 smb://172.16.152.53/Users/Default/Saved Games/
+
+1 smb://172.16.152.53/Users/Default/Videos/
+
+
+2 smb://172.16.152.53/Users/desktop.ini
+1 smb://172.16.152.53/Users/Sony/
+1 smb://172.16.152.53/Users/Sony/Desktop/
+
+1 smb://172.16.152.53/Users/Sony/Downloads/
+1 smb://172.16.152.53/Users/Sony/Downloads/Video/
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/De Daru - Anil Kapoor, Jackie Shroff _ Dilip Kumar - Karma - YouTube.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Ek baba Nanak si Babbu Mann.FLV
+1 smb://172.16.152.53/Users/Sony/Downloads/Video/english/
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/1.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/10.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/11.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/12.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/13.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/14.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/15.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/17.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/18.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/19.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/2.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/20.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/21.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/22.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/23.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/24.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/25.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/26.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/27.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/28.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/29.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/3.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/30.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/31.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/32.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/33.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/34.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/35.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/36.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/37.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/38.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/39.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/4.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/40.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/41.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/42.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/43.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/44.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/45.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/46.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/47.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/48.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/49.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/5.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/50.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/51.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/52.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/53.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/54.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/55.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/56.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/57.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/58.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/59.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/6.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/60.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/61.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/62.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/63.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/64.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/7.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/8.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/english/9.FLV
+
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Fevicol Se Dabangg 2.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Gaani - Sirphire - Preet Harpal - Monica Bedi - Full HD - Brand New Punjabi Songs - YouTube.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Gangs of Wasseypur - 1.mp4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Gutt - Preet Harpal feat. Tigerstyle full HD - brand new punjabi video - YouTube.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Harbhajan Singh - Ek Suneha - Goyal Music - Official Song HD - YouTube.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Jassi Gill Lancer Full Video Song (Official) Bachmate.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Kharku - Diljit Dosanjh.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Lat Lag Gayee  Race 2.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Massi _ Full Official Video _ Singh vs Kaur _ Gippy Grewal _ Surveen Chawla _ Releasing 15 Feb 2013 - YouTube.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/New Best Hit Punjabi Song 2012-DARU by Desi Hustlers - YouTube.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/NIT KURUKSHETRA INJUSTICE 1-2012 - YouTube.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Party On My Mind - Race 2 - Official Song Video.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Saturday Saturday Kardi Rehndi ae Kuri Official Video With Lyrics - YouTube.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Sharry Maan  Gulab Full Video 2013.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Sohne Mukhde Da - Sharry Mann.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Tamanna - Prabh Gill - Full Video - 2012 - Endless - Latest Punjabi Songs - HD.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/Taur _ Babbal Rai _ Album - Do Ghutt _ Full Official Video _ Latest Punjabi Songs 2013 - YouTube.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/videoplayback.FLV
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/videoplayback.MP4
+2 smb://172.16.152.53/Users/Sony/Downloads/Video/videoplayback_4.MP4
+
+
+
+
+1 smb://172.16.152.53/Video/
+2 smb://172.16.152.53/Video/De Daru - Anil Kapoor, Jackie Shroff _ Dilip Kumar - Karma - YouTube.FLV
+2 smb://172.16.152.53/Video/Ek baba Nanak si Babbu Mann.FLV
+1 smb://172.16.152.53/Video/english/
+2 smb://172.16.152.53/Video/english/1.FLV
+2 smb://172.16.152.53/Video/english/10.FLV
+2 smb://172.16.152.53/Video/english/11.FLV
+2 smb://172.16.152.53/Video/english/12.FLV
+2 smb://172.16.152.53/Video/english/13.FLV
+2 smb://172.16.152.53/Video/english/14.FLV
+2 smb://172.16.152.53/Video/english/15.FLV
+2 smb://172.16.152.53/Video/english/17.FLV
+2 smb://172.16.152.53/Video/english/18.FLV
+2 smb://172.16.152.53/Video/english/19.FLV
+2 smb://172.16.152.53/Video/english/2.FLV
+2 smb://172.16.152.53/Video/english/20.FLV
+2 smb://172.16.152.53/Video/english/21.FLV
+2 smb://172.16.152.53/Video/english/22.FLV
+2 smb://172.16.152.53/Video/english/23.FLV
+2 smb://172.16.152.53/Video/english/24.FLV
+2 smb://172.16.152.53/Video/english/25.FLV
+2 smb://172.16.152.53/Video/english/26.FLV
+2 smb://172.16.152.53/Video/english/27.FLV
+2 smb://172.16.152.53/Video/english/28.FLV
+2 smb://172.16.152.53/Video/english/29.FLV
+2 smb://172.16.152.53/Video/english/3.FLV
+2 smb://172.16.152.53/Video/english/30.FLV
+2 smb://172.16.152.53/Video/english/31.FLV
+2 smb://172.16.152.53/Video/english/32.FLV
+2 smb://172.16.152.53/Video/english/33.FLV
+2 smb://172.16.152.53/Video/english/34.FLV
+2 smb://172.16.152.53/Video/english/35.FLV
+2 smb://172.16.152.53/Video/english/36.FLV
+2 smb://172.16.152.53/Video/english/37.FLV
+2 smb://172.16.152.53/Video/english/38.FLV
+2 smb://172.16.152.53/Video/english/39.FLV
+2 smb://172.16.152.53/Video/english/4.FLV
+2 smb://172.16.152.53/Video/english/40.FLV
+2 smb://172.16.152.53/Video/english/41.FLV
+2 smb://172.16.152.53/Video/english/42.FLV
+2 smb://172.16.152.53/Video/english/43.FLV
+2 smb://172.16.152.53/Video/english/44.FLV
+2 smb://172.16.152.53/Video/english/45.FLV
+2 smb://172.16.152.53/Video/english/46.FLV
+2 smb://172.16.152.53/Video/english/47.FLV
+2 smb://172.16.152.53/Video/english/48.FLV
+2 smb://172.16.152.53/Video/english/49.FLV
+2 smb://172.16.152.53/Video/english/5.FLV
+2 smb://172.16.152.53/Video/english/50.FLV
+2 smb://172.16.152.53/Video/english/51.FLV
+2 smb://172.16.152.53/Video/english/52.FLV
+2 smb://172.16.152.53/Video/english/53.FLV
+2 smb://172.16.152.53/Video/english/54.FLV
+2 smb://172.16.152.53/Video/english/55.FLV
+2 smb://172.16.152.53/Video/english/56.FLV
+2 smb://172.16.152.53/Video/english/57.FLV
+2 smb://172.16.152.53/Video/english/58.FLV
+2 smb://172.16.152.53/Video/english/59.FLV
+2 smb://172.16.152.53/Video/english/6.FLV
+2 smb://172.16.152.53/Video/english/60.FLV
+2 smb://172.16.152.53/Video/english/61.FLV
+2 smb://172.16.152.53/Video/english/62.FLV
+2 smb://172.16.152.53/Video/english/63.FLV
+2 smb://172.16.152.53/Video/english/64.FLV
+2 smb://172.16.152.53/Video/english/7.FLV
+2 smb://172.16.152.53/Video/english/8.FLV
+2 smb://172.16.152.53/Video/english/9.FLV
+
+2 smb://172.16.152.53/Video/Fevicol Se Dabangg 2.MP4
+2 smb://172.16.152.53/Video/Gaani - Sirphire - Preet Harpal - Monica Bedi - Full HD - Brand New Punjabi Songs - YouTube.MP4
+2 smb://172.16.152.53/Video/Gangs of Wasseypur - 1.mp4
+2 smb://172.16.152.53/Video/Gutt - Preet Harpal feat. Tigerstyle full HD - brand new punjabi video - YouTube.FLV
+2 smb://172.16.152.53/Video/Harbhajan Singh - Ek Suneha - Goyal Music - Official Song HD - YouTube.MP4
+2 smb://172.16.152.53/Video/Jassi Gill Lancer Full Video Song (Official) Bachmate.MP4
+2 smb://172.16.152.53/Video/Kharku - Diljit Dosanjh.MP4
+2 smb://172.16.152.53/Video/Lat Lag Gayee  Race 2.MP4
+2 smb://172.16.152.53/Video/Massi _ Full Official Video _ Singh vs Kaur _ Gippy Grewal _ Surveen Chawla _ Releasing 15 Feb 2013 - YouTube.MP4
+2 smb://172.16.152.53/Video/New Best Hit Punjabi Song 2012-DARU by Desi Hustlers - YouTube.MP4
+2 smb://172.16.152.53/Video/NIT KURUKSHETRA INJUSTICE 1-2012 - YouTube.MP4
+2 smb://172.16.152.53/Video/Party On My Mind - Race 2 - Official Song Video.MP4
+2 smb://172.16.152.53/Video/Saturday Saturday Kardi Rehndi ae Kuri Official Video With Lyrics - YouTube.FLV
+2 smb://172.16.152.53/Video/Sharry Maan  Gulab Full Video 2013.MP4
+2 smb://172.16.152.53/Video/Sohne Mukhde Da - Sharry Mann.MP4
+2 smb://172.16.152.53/Video/Tamanna - Prabh Gill - Full Video - 2012 - Endless - Latest Punjabi Songs - HD.MP4
+2 smb://172.16.152.53/Video/Taur _ Babbal Rai _ Album - Do Ghutt _ Full Official Video _ Latest Punjabi Songs 2013 - YouTube.MP4
+2 smb://172.16.152.53/Video/videoplayback.FLV
+2 smb://172.16.152.53/Video/videoplayback.MP4
+2 smb://172.16.152.53/Video/videoplayback_4.MP4
+
+1 smb://172.16.152.53/rishikesh/
+2 smb://172.16.152.53/rishikesh/1362757911037.jpg
+2 smb://172.16.152.53/rishikesh/1362823650731.jpg
+2 smb://172.16.152.53/rishikesh/1362836396669.jpg
+2 smb://172.16.152.53/rishikesh/1362836462567.jpg
+2 smb://172.16.152.53/rishikesh/1362837261589.jpg
+2 smb://172.16.152.53/rishikesh/bharat.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_003716.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_003929.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_003942.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_003950.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_004212.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_004223.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_004239.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_041812.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_092403.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_092415.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_092421.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_092427.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_092432.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_092436.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_094440.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_094450.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_094509.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_094520.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_094530.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_094543.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_094554.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132142.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132150.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132158.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132204.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132210.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132215.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132219.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132229.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132238.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132243.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132249.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132259.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132306.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132314.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132318.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132324.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132330.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132349.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132402.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132405.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132408.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132411.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132417.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132422.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132430.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132434.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132447.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132452.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132505.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132514.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132533.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132538.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132547.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132558.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132611.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132615.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132621.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132636.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132642.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132653.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132721.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_132733.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133239.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133243.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133247.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133255.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133314.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133341.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133348.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133352.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133408.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133416.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133422.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133429.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133512.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133516.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133547.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133553.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133621.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133630.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133639.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133647.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133651.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133733.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133756.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133805.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133810.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133824.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133836.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133922.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133926.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133945.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133955.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_133959.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_134011.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_134021.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_134026.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_134030.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_134037.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_134047.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_134112.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_134116.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_134123.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_134132.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142739.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142756.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142803.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142809.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142817.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142828.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142833.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142857.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142911.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142943.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_142959.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143009.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143026.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143032.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143152.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143217.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143222.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143231.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143236.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143246.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143301.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143310.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143314.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143320.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143349.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143358.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143411.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143417.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143702.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143843.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143849.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143854.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143908.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143919.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143925.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143940.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_143947.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_211847.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_211923.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_211947.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_212040.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_212213.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_212241.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_212255.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_212307.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_212328.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_212340.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_212347.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_231350.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_231433.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130308_231507.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_153711.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_190854.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_190908.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_191047.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_191123.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_191211.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_191244.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_191329.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_191354.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_192542.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_192549.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_192604.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_192609.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_235236.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_235243.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_235314.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130309_235351.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_003454 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_003454.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_003459 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_003459.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014657 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014657.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014705 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014705.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014719 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014719.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014750 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014750.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014816 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014816.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014835 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_014835.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_015629 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_015629.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_015700 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_015700.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_015836 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_015836.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_015846 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_015846.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_020737 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_020737.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_020741.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_020808 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_020808.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_020812 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_020812.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_034244 (2).jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_034244.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_081340.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_171608.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_183504.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_191905.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_201415.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_201515.jpg
+2 smb://172.16.152.53/rishikesh/IMG_20130310_211037.jpg
+
+1 smb://172.16.152.53/ip/
+2 smb://172.16.152.53/ip/ipmsg.exe
+

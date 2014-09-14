@@ -1,0 +1,215 @@
+1 smb://172.16.158.146/Users/
+1 smb://172.16.158.146/Users/Default/
+1 smb://172.16.158.146/Users/Default/AppData/
+1 smb://172.16.158.146/Users/Default/AppData/Local/
+1 smb://172.16.158.146/Users/Default/AppData/Local/Microsoft/
+1 smb://172.16.158.146/Users/Default/AppData/Local/Microsoft/Windows/
+1 smb://172.16.158.146/Users/Default/AppData/Local/Microsoft/Windows/GameExplorer/
+
+1 smb://172.16.158.146/Users/Default/AppData/Local/Microsoft/Windows/History/
+
+1 smb://172.16.158.146/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/
+
+
+
+1 smb://172.16.158.146/Users/Default/AppData/Local/Temp/
+
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Media Center Programs/
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/desktop.ini
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Shows Desktop.lnk
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Window Switcher.lnk
+
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Cookies/
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Recent/
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Recent/AutomaticDestinations/
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Recent/CustomDestinations/
+
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Compressed (zipped) Folder.ZFSendToTarget
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Desktop (create shortcut).DeskLink
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Desktop.ini
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Fax Recipient.lnk
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Mail Recipient.MAPIMail
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Desktop.ini
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Ease of Access.lnk
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Magnify.lnk
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Narrator.lnk
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/On-Screen Keyboard.lnk
+
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Command Prompt.lnk
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Desktop.ini
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Notepad.lnk
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Run.lnk
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/computer.lnk
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Control Panel.lnk
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Desktop.ini
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Private Character Editor.lnk
+
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Windows Explorer.lnk
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/Desktop.ini
+2 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/Help.lnk
+
+
+
+1 smb://172.16.158.146/Users/Default/AppData/Roaming/Microsoft/Windows/Templates/
+
+
+
+
+
+1 smb://172.16.158.146/Users/Default/Desktop/
+
+1 smb://172.16.158.146/Users/Default/Documents/
+
+1 smb://172.16.158.146/Users/Default/Downloads/
+
+1 smb://172.16.158.146/Users/Default/Favorites/
+2 smb://172.16.158.146/Users/Default/Favorites/Order prints of your photos online and get the first 30 free!.url
+1 smb://172.16.158.146/Users/Default/Favorites/Sony/
+2 smb://172.16.158.146/Users/Default/Favorites/Sony/Sony Asia Pacific.url
+2 smb://172.16.158.146/Users/Default/Favorites/Sony/VAIO Online Support.url
+2 smb://172.16.158.146/Users/Default/Favorites/Sony/VAIO Online.url
+
+2 smb://172.16.158.146/Users/Default/Favorites/Zinio - Digital Magazines.url
+
+1 smb://172.16.158.146/Users/Default/Links/
+
+1 smb://172.16.158.146/Users/Default/Music/
+
+2 smb://172.16.158.146/Users/Default/NTUSER.DAT
+2 smb://172.16.158.146/Users/Default/NTUSER.DAT.LOG
+2 smb://172.16.158.146/Users/Default/NTUSER.DAT.LOG1
+2 smb://172.16.158.146/Users/Default/NTUSER.DAT.LOG2
+2 smb://172.16.158.146/Users/Default/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+2 smb://172.16.158.146/Users/Default/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+2 smb://172.16.158.146/Users/Default/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+1 smb://172.16.158.146/Users/Default/Pictures/
+
+1 smb://172.16.158.146/Users/Default/Saved Games/
+
+1 smb://172.16.158.146/Users/Default/Videos/
+
+
+2 smb://172.16.158.146/Users/desktop.ini
+1 smb://172.16.158.146/Users/Public/
+2 smb://172.16.158.146/Users/Public/desktop.ini
+1 smb://172.16.158.146/Users/Public/Documents/
+2 smb://172.16.158.146/Users/Public/Documents/desktop.ini
+2 smb://172.16.158.146/Users/Public/Documents/NITIN.eml
+
+1 smb://172.16.158.146/Users/Public/Downloads/
+2 smb://172.16.158.146/Users/Public/Downloads/desktop.ini
+2 smb://172.16.158.146/Users/Public/Downloads/NITIN.eml
+
+1 smb://172.16.158.146/Users/Public/Favorites/
+2 smb://172.16.158.146/Users/Public/Favorites/NITIN.eml
+
+1 smb://172.16.158.146/Users/Public/Libraries/
+2 smb://172.16.158.146/Users/Public/Libraries/desktop.ini
+2 smb://172.16.158.146/Users/Public/Libraries/NITIN.eml
+2 smb://172.16.158.146/Users/Public/Libraries/RecordedTV.library-ms
+
+1 smb://172.16.158.146/Users/Public/Music/
+2 smb://172.16.158.146/Users/Public/Music/desktop.ini
+2 smb://172.16.158.146/Users/Public/Music/NITIN.eml
+1 smb://172.16.158.146/Users/Public/Music/Sample Music/
+2 smb://172.16.158.146/Users/Public/Music/Sample Music/AlbumArtSmall.jpg
+2 smb://172.16.158.146/Users/Public/Music/Sample Music/AlbumArt_{5FA05D35-A682-4AF6-96F7-0773E42D4D16}_Large.jpg
+2 smb://172.16.158.146/Users/Public/Music/Sample Music/AlbumArt_{5FA05D35-A682-4AF6-96F7-0773E42D4D16}_Small.jpg
+2 smb://172.16.158.146/Users/Public/Music/Sample Music/desktop.ini
+2 smb://172.16.158.146/Users/Public/Music/Sample Music/Folder.jpg
+2 smb://172.16.158.146/Users/Public/Music/Sample Music/Kalimba.mp3
+2 smb://172.16.158.146/Users/Public/Music/Sample Music/Maid with the Flaxen Hair.mp3
+2 smb://172.16.158.146/Users/Public/Music/Sample Music/NITIN.eml
+2 smb://172.16.158.146/Users/Public/Music/Sample Music/Sleep Away.mp3
+
+
+2 smb://172.16.158.146/Users/Public/NITIN.eml
+2 smb://172.16.158.146/Users/Public/ntuser.dat
+2 smb://172.16.158.146/Users/Public/ntuser.dat.LOG1
+2 smb://172.16.158.146/Users/Public/ntuser.dat.LOG2
+2 smb://172.16.158.146/Users/Public/ntuser.dat{28325ed3-f6d8-11de-b28c-78843cf33272}.TM.blf
+2 smb://172.16.158.146/Users/Public/ntuser.dat{28325ed3-f6d8-11de-b28c-78843cf33272}.TMContainer00000000000000000001.regtrans-ms
+2 smb://172.16.158.146/Users/Public/ntuser.dat{28325ed3-f6d8-11de-b28c-78843cf33272}.TMContainer00000000000000000002.regtrans-ms
+2 smb://172.16.158.146/Users/Public/ntuser.dat{28325ede-f6d8-11de-b28c-78843cf33272}.TM.blf
+2 smb://172.16.158.146/Users/Public/ntuser.dat{28325ede-f6d8-11de-b28c-78843cf33272}.TMContainer00000000000000000001.regtrans-ms
+2 smb://172.16.158.146/Users/Public/ntuser.dat{28325ede-f6d8-11de-b28c-78843cf33272}.TMContainer00000000000000000002.regtrans-ms
+1 smb://172.16.158.146/Users/Public/Pictures/
+2 smb://172.16.158.146/Users/Public/Pictures/desktop.ini
+2 smb://172.16.158.146/Users/Public/Pictures/NITIN.eml
+1 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/
+1 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/
+1 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/burnout paradise - 1 - esrb e pegi 7+.jps
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/burnout paradise - 2 - esrb e pegi 7+.jps
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/devil may crry 4 - 1 - esrb t pegi 12+.jps
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/devil may crry 4 - 2 - esrb t pegi 12+.jps
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/guitar hero 3 - 1 - esrb t pegi 12+.jps
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/guitar hero 3 - 2 - esrb t pegi 12+.jps
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/medusa - 1 - esrb t pegi 12+.jps
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/medusa - 2 - esrb t pegi 12+.jps
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/NITIN.eml
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/tomb raider underworld - 2 - esrb t pegi 12+.jps
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/3D Vision preview pack 1/tomb raider underworld - 4 - esrb t pegi 12+.jps
+
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/3D Vision Experience/NITIN.eml
+
+2 smb://172.16.158.146/Users/Public/Pictures/NVIDIA Corporation/NITIN.eml
+
+1 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/
+2 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/Chrysanthemum.jpg
+2 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/Desert.jpg
+2 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/desktop.ini
+2 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/Hydrangeas.jpg
+2 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/Jellyfish.jpg
+2 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/Koala.jpg
+2 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/Lighthouse.jpg
+2 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/NITIN.eml
+2 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/Penguins.jpg
+2 smb://172.16.158.146/Users/Public/Pictures/Sample Pictures/Tulips.jpg
+
+
+1 smb://172.16.158.146/Users/Public/Recorded TV/
+2 smb://172.16.158.146/Users/Public/Recorded TV/desktop.ini
+2 smb://172.16.158.146/Users/Public/Recorded TV/NITIN.eml
+1 smb://172.16.158.146/Users/Public/Recorded TV/Sample Media/
+2 smb://172.16.158.146/Users/Public/Recorded TV/Sample Media/desktop.ini
+2 smb://172.16.158.146/Users/Public/Recorded TV/Sample Media/NITIN.eml
+2 smb://172.16.158.146/Users/Public/Recorded TV/Sample Media/win7_scenic-demoshort_raw.wtv
+
+
+1 smb://172.16.158.146/Users/Public/Videos/
+2 smb://172.16.158.146/Users/Public/Videos/desktop.ini
+2 smb://172.16.158.146/Users/Public/Videos/NITIN.eml
+1 smb://172.16.158.146/Users/Public/Videos/Sample Videos/
+2 smb://172.16.158.146/Users/Public/Videos/Sample Videos/desktop.ini
+2 smb://172.16.158.146/Users/Public/Videos/Sample Videos/NITIN.eml
+2 smb://172.16.158.146/Users/Public/Videos/Sample Videos/Thumbs.db
+2 smb://172.16.158.146/Users/Public/Videos/Sample Videos/Wildlife.wmv
+
+
+
+

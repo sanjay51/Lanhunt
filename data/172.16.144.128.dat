@@ -1,0 +1,151 @@
+1 smb://172.16.144.128/Users/
+1 smb://172.16.144.128/Users/Default/
+1 smb://172.16.144.128/Users/Default/AppData/
+1 smb://172.16.144.128/Users/Default/AppData/Local/
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/GameExplorer/
+
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/History/
+2 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/History/desktop.ini
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/History/History.IE5/
+2 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/History/History.IE5/desktop.ini
+2 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/History/History.IE5/index.dat
+
+
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/6I8UNRBI/
+2 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/6I8UNRBI/desktop.ini
+
+2 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/desktop.ini
+2 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/index.dat
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/MPXS7UGF/
+2 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/MPXS7UGF/desktop.ini
+
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/PLFLGR7M/
+2 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/PLFLGR7M/desktop.ini
+
+1 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/YBLOKL8H/
+2 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/YBLOKL8H/desktop.ini
+
+
+2 smb://172.16.144.128/Users/Default/AppData/Local/Microsoft/Windows/Temporary Internet Files/desktop.ini
+
+
+
+1 smb://172.16.144.128/Users/Default/AppData/Local/Sony Corporation/
+1 smb://172.16.144.128/Users/Default/AppData/Local/Sony Corporation/VCM Intelligent Analyzing Manager/
+1 smb://172.16.144.128/Users/Default/AppData/Local/Sony Corporation/VCM Intelligent Analyzing Manager/Temp/
+1 smb://172.16.144.128/Users/Default/AppData/Local/Sony Corporation/VCM Intelligent Analyzing Manager/Temp/VMLib/
+
+
+
+
+1 smb://172.16.144.128/Users/Default/AppData/Local/Temp/
+
+
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Media Center Programs/
+
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/desktop.ini
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Shows Desktop.lnk
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/Window Switcher.lnk
+
+
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Cookies/
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Cookies/index.dat
+
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Recent/
+
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Compressed (zipped) Folder.ZFSendToTarget
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Desktop (create shortcut).DeskLink
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Desktop.ini
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Fax Recipient.lnk
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/SendTo/Mail Recipient.MAPIMail
+
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Desktop.ini
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Ease of Access.lnk
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Magnify.lnk
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/Narrator.lnk
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility/On-Screen Keyboard.lnk
+
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Command Prompt.lnk
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Desktop.ini
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Notepad.lnk
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Run.lnk
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/computer.lnk
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Control Panel.lnk
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Desktop.ini
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/System Tools/Private Character Editor.lnk
+
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Windows Explorer.lnk
+
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/Desktop.ini
+2 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Maintenance/Help.lnk
+
+
+
+1 smb://172.16.144.128/Users/Default/AppData/Roaming/Microsoft/Windows/Templates/
+
+
+
+
+
+1 smb://172.16.144.128/Users/Default/Desktop/
+
+1 smb://172.16.144.128/Users/Default/Documents/
+
+1 smb://172.16.144.128/Users/Default/Downloads/
+
+1 smb://172.16.144.128/Users/Default/Favorites/
+1 smb://172.16.144.128/Users/Default/Favorites/Sony/
+2 smb://172.16.144.128/Users/Default/Favorites/Sony/Music Unlimited powered by Qriocity.url
+2 smb://172.16.144.128/Users/Default/Favorites/Sony/Sony Asia Pacific.url
+2 smb://172.16.144.128/Users/Default/Favorites/Sony/VAIO Online Support.url
+2 smb://172.16.144.128/Users/Default/Favorites/Sony/VAIO Online.url
+
+
+1 smb://172.16.144.128/Users/Default/Links/
+
+1 smb://172.16.144.128/Users/Default/Music/
+
+2 smb://172.16.144.128/Users/Default/NTUSER.DAT
+2 smb://172.16.144.128/Users/Default/NTUSER.DAT.LOG
+2 smb://172.16.144.128/Users/Default/NTUSER.DAT.LOG1
+2 smb://172.16.144.128/Users/Default/NTUSER.DAT.LOG2
+2 smb://172.16.144.128/Users/Default/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+2 smb://172.16.144.128/Users/Default/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+2 smb://172.16.144.128/Users/Default/NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+1 smb://172.16.144.128/Users/Default/Pictures/
+
+1 smb://172.16.144.128/Users/Default/Saved Games/
+
+1 smb://172.16.144.128/Users/Default/Videos/
+
+
+2 smb://172.16.144.128/Users/Default.LOG1
+2 smb://172.16.144.128/Users/Default.LOG2
+2 smb://172.16.144.128/Users/desktop.ini
+1 smb://172.16.144.128/Users/utkarsh s/
+1 smb://172.16.144.128/Users/utkarsh s/Downloads/
+1 smb://172.16.144.128/Users/utkarsh s/Downloads/Video/
+
+
+
+
